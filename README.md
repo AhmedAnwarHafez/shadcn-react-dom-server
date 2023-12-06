@@ -1,0 +1,1 @@
+A demo project to demonstrate how to use shadcn with react on the server.
